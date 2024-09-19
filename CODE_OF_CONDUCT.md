@@ -7,6 +7,8 @@ We pledge to make participation in Catenary’s community a welcoming, inclusive
 * **Love for transit and its riders.** We love our public transit, and we want to see more of it. We understand that transit is for everyone, and we always design our products for transit riders from all backgrounds.
 * **Be excellent to each other.** Catenary is built around this shared love of public transit, and we need the help of every contributor to keep our community welcoming, diverse, and healthy.
 
+Keep in mind that all development and work for Catenary is voluntary! We care about our contributors and would not like to see anyone stressed about this project. Any suggestions made by Guides are just that -- only guidance and advice on how we think a task can be handled. Contributors (and Guides!) can drop any tasks they take on if it proves to be too much to handle, and they can say no to any requests made by other devs and Guides for tasks to be completed. Please only do what you're comfortable and capable of doing! Also, do not that Catenary does not have the means of compensanting anyone for their work besides a (metaphorical) good pat on the back. We hope that making these boundaries clear will make volunteering for Catenary a more pleasant experience!
+
 ## Our Standards
 Examples of behavior that contributes to a positive environment for our community include:
 * Demonstrating empathy and kindness toward other people
